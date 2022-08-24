@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/moldakunovak/card.git
 ```
-создать виртуальное окружение [pip](http://pypi.org/)
+создать виртуальное окружение [pip] (http://pypi.org/)
 ```
 (python3 -m venv <name_venv>)
 ```
