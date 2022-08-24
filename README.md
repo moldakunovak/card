@@ -1,7 +1,6 @@
 # Card
 Проект card
 ## Usage
-```
 склонировать репозиторий командой 
 ```
 git clone https://github.com/moldakunovak/card.git
